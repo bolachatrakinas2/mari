@@ -13,6 +13,13 @@
   height: 1502px;
   position: static;
 }
+
+.parmeira {
+  position: relative;
+left: 1200px;
+top: 440px;
+}
+
 .rectangle-5 {
   background: rgba(235, 181, 235, 0.63);
   width: 1918px;
