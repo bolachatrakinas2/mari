@@ -1,272 +1,160 @@
-.section-1,
-.section-1 * {
+.frame-1,
+.frame-1 * {
   box-sizing: border-box;
 }
-.section-1 {
-  background: #ffffff;
-  width: 1920px;
-  height: 1502px;
+.frame-1 {
+  background: #edb2f6;
+  width: 1209px;
+  height: 1057px;
   position: relative;
+  overflow: hidden;
 }
-.pagina {
-  width: 1920px;
-  height: 1502px;
-  position: static;
-}
-
-.parmeira {
-  position: relative;
-left: 1200px;
-top: 440px;
-}
-
-.rectangle-5 {
-  background: rgba(235, 181, 235, 0.63);
-  width: 1918px;
-  height: 909px;
+.avatar-1 {
+  width: 202px;
+  height: 247px;
   position: absolute;
-  left: 2px;
-  top: 375px;
-}
-.rectangle-3 {
-  position: absolute;
-  left: 2px;
-  top: 1282px;
-  overflow: visible;
-}
-.rectangle-1 {
-  border-radius: 168px;
-  width: 360.38px;
-  height: 317.1px;
-  position: absolute;
-  left: 1199.11px;
-  top: 427.56px;
-  transform-origin: 0 0;
-  transform: rotate(0deg) scale(1, 1);
-}
-.rectangle-6 {
-  position: absolute;
-  left: 710.24px;
-  top: 1194.16px;
-  overflow: visible;
-}
-.banda-1 {
-  border-radius: 138px;
-  width: 314.96px;
-  height: 266.52px;
-  position: absolute;
-  left: 1247.74px;
-  top: 897.38px;
-  transform-origin: 0 0;
-  transform: rotate(0.441deg) scale(1, 1);
-}
-.lana-1 {
-  border-radius: 164px;
-  width: 296.88px;
-  height: 297.38px;
-  position: absolute;
-  left: 739.52px;
-  top: 442.65px;
-}
-.rectangle-7 {
-  background: #000000;
-  width: 314.97px;
-  height: 59.36px;
-  position: absolute;
-  left: 1227.95px;
-  top: 752.51px;
-}
-.mari-dog-1 {
-  border-radius: 140px;
-  width: 288.35px;
-  height: 313.88px;
-  position: absolute;
-  left: 747.95px;
-  top: 853.11px;
-}
-.rectangle-9 {
-  background: #000000;
-  width: 258.19px;
-  height: 54.33px;
-  position: absolute;
-  left: 747.95px;
-  top: 757.54px;
-}
-.anime-1 {
-  border-radius: 149.3px;
-  width: 322.28px;
-  height: 300.41px;
-  position: absolute;
-  left: 216.49px;
-  top: 866.19px;
-}
-.rectangle-8 {
-  position: absolute;
-  left: 200.52px;
-  top: 1196.17px;
-  overflow: visible;
-}
-.rectangle-11 {
-  position: absolute;
-  left: 1566.88px;
-  top: 1193.15px;
-  overflow: visible;
-}
-.rectangle-4 {
-  border-radius: 135.12px;
-  width: 296.79px;
-  height: 271.86px;
-  position: absolute;
-  left: 229.35px;
-  top: 455.73px;
-}
-.rectangle-15 {
-  background: #000000;
-  width: 299px;
-  height: 54.33px;
-  position: absolute;
-  left: 227.13px;
-  top: 764.58px;
-}
-.livro {
-  color: #ffffff;
-  text-align: left;
-  font: 400 30px "Inika", sans-serif;
-  position: absolute;
-  left: 338px;
-  top: 1203px;
-  width: 188px;
-  height: 39px;
-}
-.rectangle-12 {
-  background: #e551b3;
-  width: 1919px;
-  height: 43px;
-  position: absolute;
-  left: 1px;
-  top: 370px;
-}
-._3 {
-  color: #000000;
-  text-align: left;
-  font: 400 24px "Imprima", sans-serif;
-  position: absolute;
-  left: 255.72px;
-  top: 374.75px;
-  width: 122.24px;
-  height: 106.21px;
-}
-.rectangle-14 {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  overflow: visible;
-}
-.rectangle-16 {
-  background: #000000;
-  width: 296.34px;
-  height: 53.32px;
-  position: absolute;
-  left: 1262.55px;
-  top: 1195.16px;
-}
-.rectangle-13 {
-  position: absolute;
-  left: 28.7px;
-  top: 0px;
-  overflow: visible;
-}
-.a-vida-me-ensinou-a-nunca-desistir {
-  color: #000000;
-  text-align: left;
-  font: 400 48px "Jim Nightshade", sans-serif;
-  position: absolute;
-  left: 600px;
-  top: 1328px;
-  width: 1081.55px;
-  height: 92.55px;
-}
-
-}}    
-}    
+  left: 48px;
+  top: 14px;
 }
 .mariane-gabriele {
   color: #000000;
   text-align: left;
-  font: 400 96px "Imprima", sans-serif;
+  font: 400 96px "Jacques Francois", sans-serif;
   position: absolute;
-  left: 569.61px;
-  top: 78.47px;
-  width: 747.75px;
-  height: 224.55px;
+  left: 323px;
+  top: 10px;
+  width: 610px;
+  height: 251px;
 }
-.by-chor-o {
+.colegio-civico-militar-vila-guaira {
   color: #000000;
   text-align: left;
-  font: 400 24px "Graduate", sans-serif;
+  font: 400 20px "Irish Grover", sans-serif;
   position: absolute;
-  left: 1626px;
-  top: 1348px;
-  width: 225.43px;
-  height: 40.97px;
+  left: 906px;
+  top: 14px;
+  width: 311px;
+  height: 12px;
 }
-.civico-militar-vila-gua-ra {
-  color: #000000;
+.coisas-que-eu-gosto {
+  color: linear-gradient(
+    180deg,
+    rgba(255, 30, 246, 1) 0%,
+    rgba(32, 18, 202, 1) 100%
+  );
   text-align: left;
-  font: 400 40px "Iceberg", sans-serif;
+  font: 400 64px "Just Me Again Down Here", sans-serif;
   position: absolute;
-  left: 1200px;
-top: 300px;
-width: 5610px;
-  height: 52.31px;
+  left: 339px;
+  top: 283px;
 }
-.filme {
-  color: #ffffff;
-  text-align: left;
-  font: 400 30px "Inika", sans-serif;
+.parneira-img-1 {
+  width: 228px;
+  height: 233px;
   position: absolute;
-  left: 336px;
-  top: 773px;
-  width: 142px;
-  height: 38px;
+  left: 475px;
+  top: 684px;
 }
-.banda {
-  color: #ffffff;
-  text-align: left;
-  font: 400 30px "Inika", sans-serif;
+.livro-img-1 {
+  width: 228px;
+  height: 233px;
   position: absolute;
-  left: 1364px;
-  top: 1204px;
-  width: 140px;
-  height: 39px;
+  left: 883px;
+  top: 684px;
+}
+.lana-img-1 {
+  width: 228px;
+  height: 233px;
+  position: absolute;
+  left: 488px;
+  top: 398px;
+}
+.filme-img-1 {
+  width: 230.97px;
+  height: 233px;
+  position: absolute;
+  left: 880px;
+  top: 398px;
+}
+.dog-img-1 {
+  width: 228px;
+  height: 233px;
+  position: absolute;
+  left: 111px;
+  top: 398px;
+}
+.banda-img-1 {
+  width: 228px;
+  height: 233px;
+  position: absolute;
+  left: 111px;
+  top: 684px;
 }
 .animal {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
-  font: 400 30px "Inika", sans-serif;
+  font: 400 32px "Keania One", sans-serif;
   position: absolute;
-  left: 826.03px;
-  top: 1205.22px;
-  width: 200.31px;
-  height: 58.58px;
-}
-.time {
-  color: #ffffff;
-  text-align: left;
-  font: 400 30px "Inika", sans-serif;
-  position: absolute;
-  left: 1355.71px;
-  top: 760.56px;
-  width: 102.92px;
-  height: 31.19px;
+  left: 176px;
+  top: 631px;
 }
 .cantora {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
-  font: 400 30px "Inika", sans-serif;
+  font: 400 32px "Keania One", sans-serif;
   position: absolute;
-  left: 816px;
-  top: 770px;
-  width: 176px;
-  height: 39px;
+  left: 546px;
+  top: 624px;
+}
+.filme {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Keania One", sans-serif;
+  position: absolute;
+  left: 956px;
+  top: 624px;
+}
+.banda {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Keania One", sans-serif;
+  position: absolute;
+  left: 176px;
+  top: 917px;
+}
+.time {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Keania One", sans-serif;
+  position: absolute;
+  left: 553px;
+  top: 917px;
+}
+.livro {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Keania One", sans-serif;
+  position: absolute;
+  left: 962px;
+  top: 917px;
+}
+.a-vida-me-ensinou-a-nunca-desistir {
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Merienda One", sans-serif;
+  position: absolute;
+  left: 314px;
+  top: 993px;
+}
+.by-chor-o {
+  color: linear-gradient(
+    180deg,
+    rgba(32, 18, 202, 1) 0%,
+    rgba(232, 12, 196, 0.66) 100%
+  );
+  text-align: left;
+  font: 400 15px "Merienda One", sans-serif;
+  position: absolute;
+  left: 883px;
+  top: 1022px;
 }
